@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(241, 209, 241);
+}
+
+.nevagetion_images_page{
+    display: 100%;
+    width: 100%;
+}
+
+.nevagetion_images_page .left_side_on_images_page{
+    display: 100%;
+}
+
+.nevagetion_images_page .left_side_on_images_page img{
+    width: 24px;
+    background-color: none;
+}
+
+.rigth_side_on_images_page{
+    display: inline-block;
+    margin-left: 90%;
+}
+
+main{
+    margin-left: 35%;
+}
+
+figure{
+    display: inline-block;
+    padding: 1px;
+}
+
+figure img{
+    display: inline-block;
+    border-radius: 15px;
+    width: 70%;
+    padding: 1px;
+}
+
+div{
+    display: inline-block;
+}
+
+div img{
+    border-radius: 20px;
+    width: 20%;
+}
+
+.discover{
+    display: inline-block
+}
+
+.first_line{
+    display: inline-block;
+}
